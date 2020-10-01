@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdhhWg1AajEq6mwMtS2RQJWS0mrX8wl298qxwyfC1vSsxXAEpenkPgnFIZ3bv8TPQ6C04iFk+/pxf3abOSMm2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Derick\\Documents\\GitHub\\WRAV102-Pracs\\WRAV102-Pracs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Derick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
