@@ -1,0 +1,13 @@
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.csprojAssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.AssemblyInfo.cs
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.exe
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.deps.json
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.runtimeconfig.json
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.runtimeconfig.dev.json
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.dll
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\bin\Debug\netcoreapp3.1\Tut01.pdb
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.dll
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.pdb
+C:\Users\Derick\Documents\GitHub\WRAV102-Pracs\Tut01\obj\Debug\netcoreapp3.1\Tut01.genruntimeconfig.cache
